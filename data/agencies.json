@@ -1,0 +1,532 @@
+[
+  {
+    "agencyName": "Administración de Asuntos Federales de Puerto Rico",
+    "agencyAcronym": "PRFAA",
+    "agencyWebsite": "https://prfaa.pr.gov"
+  },
+  {
+    "agencyName": "Administración de Compensaciones por Accidentes de Automóviles",
+    "agencyAcronym": "ACAA",
+    "agencyWebsite": "http://www.acaa.pr.gov/"
+  },
+  {
+    "agencyName": "Administración de Desarrollo Socioeconómico de la Familia",
+    "agencyAcronym": "ADSEF",
+    "agencyWebsite": "https://servicios.adsef.pr.gov"
+  },
+  {
+    "agencyName": "Administración de Familias y Niños",
+    "agencyAcronym": "ADFAN",
+    "agencyWebsite": "https://adfan.pr.gov"
+  },
+  {
+    "agencyName": "Administración de Instituciones Juveniles",
+    "agencyAcronym": "AIJ",
+    "agencyWebsite": "http://dcr.pr.gov/"
+  },
+  {
+    "agencyName": "Administración de Rehabilitación Vocacional",
+    "agencyAcronym": "ARV",
+    "agencyWebsite": "http://www.arv.pr.gov"
+  },
+  {
+    "agencyName": "Administración de Seguros de Salud",
+    "agencyAcronym": "ASES",
+    "agencyWebsite": "https://www.asespr.org"
+  },
+  {
+    "agencyName": "Administración de Servicios Generales",
+    "agencyAcronym": "ASG",
+    "agencyWebsite": "https://asg.pr.gov"
+  },
+  {
+    "agencyName": "Administración de Servicios Médicos (Dpto. Salud)",
+    "agencyAcronym": "ASEM",
+    "agencyWebsite": "https://www.asem.pr.gov/"
+  },
+  {
+    "agencyName": "Administración de Servicios de Salud Mental y Contra la Adicción (Dpto. Salud)",
+    "agencyAcronym": "ASSMCA",
+    "agencyWebsite": "https://assmca.pr.gov"
+  },
+  {
+    "agencyName": "Administración de Terrenos",
+    "agencyAcronym": "AT",
+    "agencyWebsite": "https://www.terrenos.pr.gov"
+  },
+  {
+    "agencyName": "Administración de Vivienda Pública",
+    "agencyAcronym": "AVP",
+    "agencyWebsite": "https://www.avp.pr.gov"
+  },
+  {
+    "agencyName": "Administración de los Sistemas de Retiro de los Empleados del Gobierno y la Judicatura",
+    "agencyAcronym": "ASR",
+    "agencyWebsite": "http://www.retiro.pr.gov"
+  },
+  {
+    "agencyName": "Administración del Derecho al Trabajo",
+    "agencyAcronym": "",
+    "agencyWebsite": ""
+  },
+  {
+    "agencyName": "Administración para el Adiestramiento de Futuros Empresarios y Trabajadores",
+    "agencyAcronym": "",
+    "agencyWebsite": ""
+  },
+  {
+    "agencyName": "Administración para el Cuidado y Desarrollo Integral de la Niñez",
+    "agencyAcronym": "ACUDEN",
+    "agencyWebsite": "https://acuden.pr.gov/"
+  },
+  {
+    "agencyName": "Administración para el Desarrollo de Empresas Agropecuarias",
+    "agencyAcronym": "ADEA",
+    "agencyWebsite": "https://www.agricultura.pr/"
+  },
+  {
+    "agencyName": "Administración para el Sustento de Menores",
+    "agencyAcronym": "ASUME",
+    "agencyWebsite": "https://asume.pr.gov/"
+  },
+  {
+    "agencyName": "Agencia Estatal para el Manejo de Emergencias y Administración de Desastres",
+    "agencyAcronym": "AEMEAD",
+    "agencyWebsite": "https://manejodeemergencias.pr.gov/"
+  },
+  {
+    "agencyName": "Autoridad Metropolitana de Autobuses",
+    "agencyAcronym": "AMA",
+    "agencyWebsite": "https://www.dtop.pr.gov/ama"
+  },
+  {
+    "agencyName": "Autoridad de Acueductos y Alcantarillados",
+    "agencyAcronym": "AAA",
+    "agencyWebsite": "https://www.acueductospr.com/"
+  },
+  {
+    "agencyName": "Autoridad de Carreteras y Transportación",
+    "agencyAcronym": "ACT",
+    "agencyWebsite": "https://act.dtop.pr.gov/"
+  },
+  {
+    "agencyName": "Autoridad de Desperdicios Sólidos",
+    "agencyAcronym": "ADS",
+    "agencyWebsite": "https://www.drna.pr.gov/otrora-ads/"
+  },
+  {
+    "agencyName": "Autoridad de Edificios Públicos",
+    "agencyAcronym": "AEP",
+    "agencyWebsite": "http://www.aep.pr.gov/"
+  },
+  {
+    "agencyName": "Autoridad de Energía Eléctrica",
+    "agencyAcronym": "AEE",
+    "agencyWebsite": "https://aeepr.com/"
+  },
+  {
+    "agencyName": "Autoridad de Tierras de Puerto Rico",
+    "agencyAcronym": "ATPR",
+    "agencyWebsite": "https://www.agricultura.pr/autoridad-tierras"
+  },
+  {
+    "agencyName": "Autoridad de Transporte Marítimo",
+    "agencyAcronym": "ATM",
+    "agencyWebsite": "https://www.puertoricoferry.com/"
+  },
+  {
+    "agencyName": "Autoridad de los Puertos",
+    "agencyAcronym": "AP",
+    "agencyWebsite": "https://www.prpa.pr.gov/"
+  },
+  {
+    "agencyName": "Autoridad del Distrito del Centro de Convenciones de Puerto Rico",
+    "agencyAcronym": "ADCCPR",
+    "agencyWebsite": "http://www.prcda.com"
+  },
+  {
+    "agencyName": "Autoridad del Puerto de Ponce",
+    "agencyAcronym": "APA",
+    "agencyWebsite": "https://www.ppa.pr.gov/"
+  },
+  {
+    "agencyName": "Autoridad para el Financiamiento de Facilidades Industriales, Turísticas, Educativas, Médicas y de Control Ambiental",
+    "agencyAcronym": "AFICA",
+    "agencyWebsite": "http://www.gdb-pur.com/spa/affiliates/afica.html"
+  },
+  {
+    "agencyName": "Autoridad para el Financiamiento de la Infraestructura de Puerto Rico",
+    "agencyAcronym": "AFI",
+    "agencyWebsite": "https://afi.pr.gov"
+  },
+  {
+    "agencyName": "Autoridad para el Financiamiento de la Vivienda",
+    "agencyAcronym": "AFV",
+    "agencyWebsite": "http://www.afv.pr.gov"
+  },
+  {
+    "agencyName": "Autoridad para las Alianzas Público Privadas",
+    "agencyAcronym": "AAPP",
+    "agencyWebsite": "https://www.p3.pr.gov/"
+  },
+  {
+    "agencyName": "Banco Gubernamental de Fomento",
+    "agencyAcronym": "BGF",
+    "agencyWebsite": "http://www.gdb-pur.com/spa"
+  },
+  {
+    "agencyName": "Banco de Desarrollo Económico",
+    "agencyAcronym": "BDE",
+    "agencyWebsite": "https://www.bde.pr.gov/"
+  },
+  {
+    "agencyName": "Centro de Diabetes para Puerto Rico",
+    "agencyAcronym": "CDPR",
+    "agencyWebsite": "https://www.diabetes.pr.gov/"
+  },
+  {
+    "agencyName": "Centro de Recaudaciones de Ingresos Municipales",
+    "agencyAcronym": "CRIM",
+    "agencyWebsite": "https://portal.crim360.com/"
+  },
+  {
+    "agencyName": "Comisión Apelativa del Servicio Público",
+    "agencyAcronym": "CASP",
+    "agencyWebsite": "http://www.casp.pr.gov"
+  },
+  {
+    "agencyName": "Comisión Estatal de Elecciones",
+    "agencyAcronym": "CEE",
+    "agencyWebsite": "https://www.ceepur.org/"
+  },
+  {
+    "agencyName": "Comisión Industrial de Puerto Rico",
+    "agencyAcronym": "CIPR",
+    "agencyWebsite": "https://www.cipr.pr.gov/"
+  },
+  {
+    "agencyName": "Comisión de Desarrollo Cooperativo de Puerto Rico",
+    "agencyAcronym": "CDCOOP",
+    "agencyWebsite": "https://cdcoop.pr.gov/"
+  },
+  {
+    "agencyName": "Comisión de Investigación, Procesamiento y Apelación",
+    "agencyAcronym": "CIPA",
+    "agencyWebsite": "https://www.cipa.pr.gov"
+  },
+  {
+    "agencyName": "Comisión de Juegos del Gobierno de Puerto Rico",
+    "agencyAcronym": "AIDH",
+    "agencyWebsite": "https://comjuegos.pr.gov/"
+  },
+  {
+    "agencyName": "Comisión para la Seguridad en el Tránsito",
+    "agencyAcronym": "CST",
+    "agencyWebsite": "http://www.comisionparalaseguridadeneltransito.com/"
+  },
+  {
+    "agencyName": "Compañía de Fomento Industrial",
+    "agencyAcronym": "PRIDCO",
+    "agencyWebsite": "https://pridco.pr.gov/es"
+  },
+  {
+    "agencyName": "Compañía de Turismo de Puerto Rico",
+    "agencyAcronym": "Turismo",
+    "agencyWebsite": "https://prtourism.com/?lang=es"
+  },
+  {
+    "agencyName": "Compañía para el Desarrollo Integral de la Península de Cantera",
+    "agencyAcronym": "Península",
+    "agencyWebsite": "https://peninsuladecantera.com/"
+  },
+  {
+    "agencyName": "Corporación Pública para la Supervisión y Seguros de Cooperativas de Puerto Rico",
+    "agencyAcronym": "COSSEC",
+    "agencyWebsite": "https://www.cossec.pr.gov"
+  },
+  {
+    "agencyName": "Corporación de Puerto RicoR para la Difusión Pública",
+    "agencyAcronym": "WIPR",
+    "agencyWebsite": "https://wipr.pr/"
+  },
+  {
+    "agencyName": "Corporación de Seguros Agrícolas",
+    "agencyAcronym": "CSA",
+    "agencyWebsite": "https://www.agricultura.pr/csa"
+  },
+  {
+    "agencyName": "Corporación del Centro Bellas Artes",
+    "agencyAcronym": "CBA",
+    "agencyWebsite": "https://www.cba.pr.gov"
+  },
+  {
+    "agencyName": "Corporación del Centro Cardiovascular de Puerto Rico y el Caribe",
+    "agencyAcronym": "CCCPRC",
+    "agencyWebsite": "https://www.cardiovascular.pr.gov/"
+  },
+  {
+    "agencyName": "Corporación del Conservatorio de Música",
+    "agencyAcronym": "CCM",
+    "agencyWebsite": "https://cmpr.edu/"
+  },
+  {
+    "agencyName": "Corporación del Fondo del Seguro del Estado",
+    "agencyAcronym": "CFSE",
+    "agencyWebsite": "https://www.fondopr.com/"
+  },
+  {
+    "agencyName": "Corporación del Proyecto ENLACE del Caño Martín Peña",
+    "agencyAcronym": "ENLACE",
+    "agencyWebsite": "http://martinpena.org/"
+  },
+  {
+    "agencyName": "Corporación para las Artes Musicales",
+    "agencyAcronym": "CAM",
+    "agencyWebsite": ""
+  },
+  {
+    "agencyName": "Cuerpo de Bomberos de Puerto Rico",
+    "agencyAcronym": "Bomberos",
+    "agencyWebsite": "https://bomberos.pr.gov"
+  },
+  {
+    "agencyName": "Cuerpo de Emergencias Médicas",
+    "agencyAcronym": "CEM",
+    "agencyWebsite": "https://cempr.pr.gov/"
+  },
+  {
+    "agencyName": "Defensoría de las Personas con Impedimentos",
+    "agencyAcronym": "DPI",
+    "agencyWebsite": "https://dpi.pr.gov/"
+  },
+  {
+    "agencyName": "Departamento de Agricultura",
+    "agencyAcronym": "DA",
+    "agencyWebsite": "https://www.agricultura.pr/"
+  },
+  {
+    "agencyName": "Departamento de Asuntos del Consumidor",
+    "agencyAcronym": "DACO",
+    "agencyWebsite": "https://www.daco.pr.gov"
+  },
+  {
+    "agencyName": "Departamento de Corrección y Rehabilitación",
+    "agencyAcronym": "DCR",
+    "agencyWebsite": "http://dcr.pr.gov"
+  },
+  {
+    "agencyName": "Departamento de Desarrollo Económico y Comercio",
+    "agencyAcronym": "DDEC",
+    "agencyWebsite": "https://www.ddec.pr.gov"
+  },
+  {
+    "agencyName": "Departamento de Educación",
+    "agencyAcronym": "DE",
+    "agencyWebsite": "https://de.pr.gov"
+  },
+  {
+    "agencyName": "Departamento de Estado",
+    "agencyAcronym": "Estado",
+    "agencyWebsite": "https://www.estado.pr.gov/"
+  },
+  {
+    "agencyName": "Departamento de Hacienda",
+    "agencyAcronym": "DH",
+    "agencyWebsite": "https://hacienda.pr.gov"
+  },
+  {
+    "agencyName": "Departamento de Justicia",
+    "agencyAcronym": "DJ",
+    "agencyWebsite": "http://www.justicia.pr.gov/"
+  },
+  {
+    "agencyName": "Departamento de Recreación y Deportes",
+    "agencyAcronym": "DRD",
+    "agencyWebsite": "https://www.drdpuertorico.com/"
+  },
+  {
+    "agencyName": "Departamento de Recursos Naturales y Ambientales",
+    "agencyAcronym": "DRNA",
+    "agencyWebsite": "https://www.drna.pr.gov/"
+  },
+  {
+    "agencyName": "Departamento de Salud",
+    "agencyAcronym": "DS",
+    "agencyWebsite": "https://www.salud.gov.pr/"
+  },
+  {
+    "agencyName": "Departamento de Transportación y Obras Públicas",
+    "agencyAcronym": "DTOP",
+    "agencyWebsite": "https://www.dtop.pr.gov/"
+  },
+  {
+    "agencyName": "Departamento de la Familia",
+    "agencyAcronym": "DF",
+    "agencyWebsite": "https://familia.pr.gov"
+  },
+  {
+    "agencyName": "Departamento de la Vivienda",
+    "agencyAcronym": "DV",
+    "agencyWebsite": "https://www.vivienda.pr.gov/"
+  },
+  {
+    "agencyName": "Departamento del Trabajo y Recursos Humanos",
+    "agencyAcronym": "DTRH",
+    "agencyWebsite": "http://www.trabajo.pr.gov"
+  },
+  {
+    "agencyName": "Escuela de Artes Plásticas",
+    "agencyAcronym": "EAP",
+    "agencyWebsite": "https://www.eap.edu"
+  },
+  {
+    "agencyName": "Fideicomiso Institucional de la Guardia Nacional de Puerto Rico",
+    "agencyAcronym": "FIGNA",
+    "agencyWebsite": "http://figna.pr.gov/"
+  },
+  {
+    "agencyName": "Guardia Nacional de Puerto Rico",
+    "agencyAcronym": "GNPR",
+    "agencyWebsite": ""
+  },
+  {
+    "agencyName": "Instituto de Ciencias Forenses",
+    "agencyAcronym": "ICF",
+    "agencyWebsite": "http://www.icf.pr.gov"
+  },
+  {
+    "agencyName": "Instituto de Cultura Puertorriqueña",
+    "agencyAcronym": "ICP",
+    "agencyWebsite": "https://www.icp.pr.gov/"
+  },
+  {
+    "agencyName": "Instituto de Estadísticas de Puerto Rico",
+    "agencyAcronym": "IEPR",
+    "agencyWebsite": "https://estadisticas.pr"
+  },
+  {
+    "agencyName": "Junta Reglamentadora de Telecomunicaciones",
+    "agencyAcronym": "JRTPR",
+    "agencyWebsite": "https://jrtpr.pr.gov/"
+  },
+  {
+    "agencyName": "Junta de Calidad Ambiental",
+    "agencyAcronym": "JCA",
+    "agencyWebsite": "https://www.drna.pr.gov/otrora-jca/"
+  },
+  {
+    "agencyName": "Junta de Libertad Bajo Palabra",
+    "agencyAcronym": "JLBP",
+    "agencyWebsite": "https://jlbp.pr.gov/"
+  },
+  {
+    "agencyName": "Junta de Planificación",
+    "agencyAcronym": "JP",
+    "agencyWebsite": "https://jp.pr.gov/"
+  },
+  {
+    "agencyName": "Junta de Relaciones del Trabajo",
+    "agencyAcronym": "JRT",
+    "agencyWebsite": "https://jrt.pr.gov/"
+  },
+  {
+    "agencyName": "Negociado de la Policía de Puerto Rico",
+    "agencyAcronym": "NPPR",
+    "agencyWebsite": "https://policia.pr.gov/"
+  },
+  {
+    "agencyName": "Negociado del 911",
+    "agencyAcronym": 911,
+    "agencyWebsite": "https://www.dsp.pr.gov/negociados/negociado-de-sistema-de-emergencias-9-1-1"
+  },
+  {
+    "agencyName": "Oficina Estatal de Conservación Histórica",
+    "agencyAcronym": "OECH",
+    "agencyWebsite": "https://oech.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina Estatal de Política Pública Energética",
+    "agencyAcronym": "OEPPE",
+    "agencyWebsite": "https://ddec.pr.gov/programa-de-politica-publica-energetica"
+  },
+  {
+    "agencyName": "Oficina de Administración y Transformación de los Recursos Humanos del Gobierno de Puerto Rico",
+    "agencyAcronym": "OATRH",
+    "agencyWebsite": "https://oatrh.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina de Gerencia de Permisos",
+    "agencyAcronym": "OGPe",
+    "agencyWebsite": "https://sbp.ogpe.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina de Gerencia y Presupuesto",
+    "agencyAcronym": "OGP",
+    "agencyWebsite": "https://ogp.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina de la Procuradora de las Mujeres",
+    "agencyAcronym": "OPM",
+    "agencyWebsite": "https://www.mujer.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina de Ética Gubernamental",
+    "agencyAcronym": "OEGPR",
+    "agencyWebsite": "https://www.eticapr.net/"
+  },
+  {
+    "agencyName": "Oficina del Comisionado de Instituciones Financieras",
+    "agencyAcronym": "OCIF",
+    "agencyWebsite": "https://ocif.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina del Comisionado de Seguros",
+    "agencyAcronym": "OCS",
+    "agencyWebsite": "https://ocs.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina del Contralor Electoral",
+    "agencyAcronym": "OCE",
+    "agencyWebsite": "http://oce.pr.gov"
+  },
+  {
+    "agencyName": "Oficina del Gobernador",
+    "agencyAcronym": "Fortaleza",
+    "agencyWebsite": "https://www.fortaleza.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina del Procurador de las Personas de Edad Avanzada",
+    "agencyAcronym": "OPPEA",
+    "agencyWebsite": "https://oppea.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina del Procurador del Paciente",
+    "agencyAcronym": "OPP",
+    "agencyWebsite": "https://opp.pr.gov/"
+  },
+  {
+    "agencyName": "Oficina del Procurador del Veterano",
+    "agencyAcronym": "OPV",
+    "agencyWebsite": "https://opv.pr.gov"
+  },
+  {
+    "agencyName": "Oficina para el Desarrollo Socioeconómico y Comunitario",
+    "agencyAcronym": "ODSEC",
+    "agencyWebsite": ""
+  },
+  {
+    "agencyName": "Panel sobre el Fiscal Especial Independiente",
+    "agencyAcronym": "FEI",
+    "agencyWebsite": "http://panelfei.com/"
+  },
+  {
+    "agencyName": "Puerto Rico Innovation & Technology Service",
+    "agencyAcronym": "PRITS",
+    "agencyWebsite": "https://www.prits.pr.gov/"
+  },
+  {
+    "agencyName": "Universidad de Puerto Rico",
+    "agencyAcronym": "UPR",
+    "agencyWebsite": "https://www.upr.edu/"
+  }
+]
