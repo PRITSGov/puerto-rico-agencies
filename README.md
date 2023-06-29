@@ -48,8 +48,6 @@ To access the raw `agencies.json` file from this repository, you can fetch it us
 https://raw.githubusercontent.com/PRITSGov/puerto-rico-agencies/main/data/agencies.json
 ```
 
-Replace `PRITSGov` with your GitHub username to obtain the correct URL.
-
 ## File Structure
 
 The repository follows the following directory structure:
